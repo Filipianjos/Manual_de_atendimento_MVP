@@ -1,0 +1,13 @@
+:root {
+    --details-color: #fd7e07;
+    --border-shadows: #000000;
+}
+
+header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    box-shadow: 0 4px 10px var(--border-shadows);
+    z-index: 1000;
+
+}
