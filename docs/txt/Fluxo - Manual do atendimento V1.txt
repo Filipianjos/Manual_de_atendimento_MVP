@@ -1,0 +1,35 @@
+Fluxo - Manual do atendimento V1 
+
+  Orientações gerais (canais) 
+    Atendimento Voz 
+    Atendimento Chat 
+    Atendimento Chamados 
+
+  Célula de atendimento 
+    Televendas 
+    Boas-vindas 
+    Suporte técnico 
+      Suporte N1 
+      Suporte N2 
+    Chamados 
+      Chamados N1 
+      Chamados N2 
+    Cobrança 
+      Cobrança Ativo 
+      Sac Cobrança 
+    Retenção 
+      Ativo Churn 
+      Relacionamento 
+    Sac Reclamações 
+    Grandes Contas 
+
+  Procedimentos Gerais 
+    Telefones Uteis 
+    Mapa da URA 
+    Postura no atendimento 
+    Procedimentos de segurança 
+    Comparativo com concorrência 
+
+  Produtos 
+    Gerenciador de E-mails 
+    Gestor de Estoque e PDV 
