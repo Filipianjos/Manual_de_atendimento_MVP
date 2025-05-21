@@ -1,0 +1,17 @@
+:root{
+    --bg-color: #7b7b85;
+    --bg-header-color: #000000;
+    --bg-menu-color: #e9d5b6;
+}
+
+body {
+    background-color: var(--bg-color);
+}
+
+header {
+    background-color: var(--bg-header-color);
+}
+
+menu{
+    background-color: var(--bg-menu-color);
+}
