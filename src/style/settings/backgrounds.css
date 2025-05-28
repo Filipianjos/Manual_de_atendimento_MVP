@@ -1,7 +1,8 @@
 :root{
     --bg-color: #7b7b85;
     --bg-header-color: #000000;
-    --bg-menu-color: #e9d5b6;
+    --bg-menu-color: #000000;
+    --bg-container-home: #ffffff;
 }
 
 body {
@@ -14,4 +15,8 @@ header {
 
 menu{
     background-color: var(--bg-menu-color);
+}
+
+.orientacoes_gerais_content {
+    background-color: var(--bg-container-home);
 }
