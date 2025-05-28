@@ -1,6 +1,6 @@
 :root{
     --bottom-color: #fd7e07;
-    --menu-font-color: #fd7e07;
+    --menu-font-color: #fcfaf8;
     --menu-font-color-hover: #ffffff;
 }
 menu{
@@ -14,6 +14,7 @@ menu > a {
     padding: 10px;
 
     text-decoration: none;
+    color: var(--menu-font-color);
     border: 1px solid var(--bottom-color);
     border-radius: 5px;
     transition: color 1s;
